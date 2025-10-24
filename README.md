@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahhaan22
 - 👀 I’m interested in Web Developement 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and Data
 - 💞️ I’m looking to collaborate on MERN projects
 
 <!---
